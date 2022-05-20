@@ -9,3 +9,13 @@ git branch - M main
 git remote add origin git@github.com:seuusuario/seurepositorio.git
 
 git push -u origin main
+
+
+
+Clonar um projeto
+
+git clone git@github.com:zerodls/aulagithub.git
+
+git commit -m "Mensagem explicativa"
+
+git push 
